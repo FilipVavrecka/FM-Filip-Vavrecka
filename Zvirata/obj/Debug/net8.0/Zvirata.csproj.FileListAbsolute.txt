@@ -1,0 +1,15 @@
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.AssemblyInfoInputs.cache
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.AssemblyInfo.cs
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.csproj.CoreCompileInputs.cache
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.sourcelink.json
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\bin\Debug\net8.0\Zvirata.exe
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\bin\Debug\net8.0\Zvirata.deps.json
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\bin\Debug\net8.0\Zvirata.runtimeconfig.json
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\bin\Debug\net8.0\Zvirata.dll
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\bin\Debug\net8.0\Zvirata.pdb
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.dll
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\refint\Zvirata.dll
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.pdb
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\Zvirata.genruntimeconfig.cache
+c:\Users\FilipVavrečka\Documents\VSC\Zvirata\obj\Debug\net8.0\ref\Zvirata.dll

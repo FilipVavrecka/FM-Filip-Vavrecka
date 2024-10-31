@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zvirata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6889b9bd682cd4a779d9dac8b8098c64cafa27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a002dd7e03ea15db553e41db620ef0ac7f9b6e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zvirata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zvirata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
