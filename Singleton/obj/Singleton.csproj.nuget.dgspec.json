@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Zvirata\\Zvirata.csproj": {}
+    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Zvirata\\Zvirata.csproj": {
+    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Zvirata\\Zvirata.csproj",
-        "projectName": "Zvirata",
-        "projectPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Zvirata\\Zvirata.csproj",
+        "projectUniqueName": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\FilipVavrečka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Zvirata\\obj\\",
+        "outputPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
