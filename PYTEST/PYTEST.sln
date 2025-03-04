@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYTEST", "PYTEST.csproj", "{D13FC732-7C4E-76C6-3D29-6D858A3E56BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13FC732-7C4E-76C6-3D29-6D858A3E56BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13FC732-7C4E-76C6-3D29-6D858A3E56BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13FC732-7C4E-76C6-3D29-6D858A3E56BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13FC732-7C4E-76C6-3D29-6D858A3E56BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA356F6-5BED-45CC-A469-81E9A35805AD}
+	EndGlobalSection
+EndGlobal

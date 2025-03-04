@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj": {}
+    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\PYTEST\\PYTEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj": {
+    "C:\\Users\\FilipVavrečka\\Documents\\VSC\\PYTEST\\PYTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj",
-        "projectName": "Singleton",
-        "projectPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\PYTEST\\PYTEST.csproj",
+        "projectName": "PYTEST",
+        "projectPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\PYTEST\\PYTEST.csproj",
         "packagesPath": "C:\\Users\\FilipVavrečka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\Singleton\\obj\\",
+        "outputPath": "C:\\Users\\FilipVavrečka\\Documents\\VSC\\PYTEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
